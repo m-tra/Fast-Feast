@@ -1,0 +1,112 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.1.28
+PHP Max Input Vars 	: 10000
+PHP Max Post Size 	: 64M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:39:42 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 7
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.1","theme-auto-version":"1.8.1","primary-submenu-item-border":1,"site-sidebar-layout":"right-sidebar","single-page-sidebar-layout":"no-sidebar","site-content-layout":"boxed-container","different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/bbq-restaurant-04\/wp-content\/uploads\/sites\/284\/2018\/10\/logo@2x-free-img.png","header-main-rt-section":"button","header-main-rt-section-html":"","header-main-sep":0,"primary-submenu-border":{"top":"1","right":"1","bottom":"1","left":"1"},"mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#1d1d23","hide-custom-menu-mobile":false,"primary-submenu-item-b-color":"#eaeaea","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"<span style=\"font-size: 0.8em; text-transform: uppercase;\">Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a><\/span>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"<span style=\"font-size: 0.8em; text-transform: uppercase;\">Powered by <a href=\"#\">[site_title]<\/a><\/span>","footer-sml-divider":0,"theme-color":"#db9423","link-color":"#db9423","link-h-color":"#db9423","text-color":"#1d1d23","footer-color":"rgba(255,255,255,0.3)","footer-link-color":"rgba(255,255,255,0.5)","footer-link-h-color":"#db9423","footer-bg-obj":{"background-color":"rgba(0,0,0,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"body-font-family":"'Poppins', sans-serif","body-font-weight":"400","headings-font-family":"'Abril Fatface', display","headings-font-weight":"400","display-site-title":false,"font-size-h1":{"desktop":"6","tablet":"5","mobile":"40","desktop-unit":"em","tablet-unit":"em","mobile-unit":"px"},"font-size-h2":{"desktop":"3","tablet":"","mobile":"30","desktop-unit":"em","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"2","tablet":"","mobile":"22","desktop-unit":"em","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"1.5","tablet":"","mobile":"22","desktop-unit":"em","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"1.25","tablet":"","mobile":"","desktop-unit":"em","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"1","tablet":"","mobile":"","desktop-unit":"em","tablet-unit":"px","mobile-unit":"px"},"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#db9423","button-bg-h-color":"#1d1d23","button-radius":50,"button-v-padding":8,"button-h-padding":35,"ast-header-responsive-logo-width":{"desktop":"","tablet":"150","mobile":"120"},"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"body-font-variant":"400","headings-font-variant":"400","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"blog-single-post-structure":["single-title-meta","single-image"],"shop-quick-view-stick-cart":true,"header-main-rt-section-button-text":"Reservation","header-main-rt-section-button-link":"#"},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/284/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":2,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 11 - page - Home
+Inserted - Post 12 - page - About Us
+Inserted - Post 13 - page - Menu
+Inserted - Post 14 - page - Contact Us
+Inserted - Post 15 - attachment - divider-free-img-1.png
+Inserted - Post 16 - attachment - home-bg-free-img-2.jpg
+Inserted - Post 17 - attachment - bbbq-free-img.png
+Inserted - Post 18 - attachment - food1-free-img.jpg
+Inserted - Post 19 - attachment - food2-free-img.jpg
+Inserted - Post 20 - attachment - food1-free-img.png
+Inserted - Post 21 - attachment - food4-free-img.png
+Inserted - Post 22 - attachment - food5-free-img.png
+Inserted - Post 23 - attachment - food2-free-img.png
+Inserted - Post 24 - attachment - food3-free-img.png
+Inserted - Post 25 - attachment - food6-free-img.png
+Inserted - Post 26 - attachment - enjoy-bg-free-img.jpg
+Inserted - Post 32 - attachment - footer-cta-bg-free-img.jpg
+Inserted - Post 35 - attachment - logo@2x-free-img
+Inserted - Post 36 - attachment - logo-free-img
+Inserted - Post 40 - nav_menu_item - 
+Inserted - Post 41 - nav_menu_item - 
+Inserted - Post 42 - nav_menu_item - 
+Inserted - Post 43 - nav_menu_item - 
+Inserted - Post 44 - attachment - about-bg-free-img.jpg
+Inserted - Post 45 - attachment - slide1-free-img-5.jpg
+Inserted - Post 46 - attachment - slide2-free-img-5.jpg
+Inserted - Post 47 - attachment - slide3-free-img-3.jpg
+Inserted - Post 48 - attachment - slide4-free-img-3.jpg
+Inserted - Post 50 - attachment - work-bg-free-img.jpg
+Inserted - Post 51 - attachment - chef1-free-img.png
+Inserted - Post 52 - attachment - chef2-free-img.png
+Inserted - Post 53 - attachment - banner3-free-img.jpg
+Inserted - Post 54 - attachment - chef3-free-img.png
+Inserted - Post 55 - attachment - banner2-free-img.jpg
+Inserted - Post 56 - attachment - chef4-free-img.png
+Inserted - Post 57 - attachment - banner1-free-img.jpg
+Inserted - Post 60 - attachment - contact-bg-free-img.jpg
+Inserted - Post 69 - attachment - about-img-free-img
+Inserted - Post 72 - attachment - client4-free-img
+Inserted - Post 73 - attachment - client1-free-img
+Inserted - Post 74 - attachment - client2-free-img
+Inserted - Post 75 - attachment - client3-free-img
+Inserted - Post 76 - attachment - blackboard-bg-free-img
+Inserted - Post 77 - attachment - food-pattern-free-img
+Inserted - Post 79 - attachment - bbq-free-img
+Inserted - Post 80 - attachment - favicon-free-img
+Inserted - Post 94 - attachment - mag4-free-img
+Inserted - Post 95 - attachment - mag1-free-img
+Inserted - Post 96 - attachment - mag2-free-img
+Inserted - Post 97 - attachment - mag3-free-img
+Inserted - Post 103 - attachment - demo-screenshot-free-img
+Inserted - Post 118 - page - Blog
+Inserted - Post 122 - post - Adamson Barbecue
+Inserted - Post 123 - attachment - blog01-free-img
+Inserted - Post 157 - post - Stockyards Smokehouse
+Inserted - Post 162 - attachment - pic02-free-img
+Inserted - Post 165 - post - Electric Mud BBQ
+Inserted - Post 166 - attachment - blog03-free-img
+Inserted - Post 167 - attachment - pic03-free-img
+Inserted - Post 171 - post - Cherry Street Bar-B-Que
+Inserted - Post 172 - attachment - pic04-free-img
+Inserted - Post 173 - attachment - blog04-free-img
+Inserted - Post 300 - nav_menu_item - 
+Inserted - Post 310 - attachment - blog02-free-img-1024&#215;555
+Inserted - Post 315 - attachment - blog06-free-img
+Inserted - Post 316 - attachment - blog05-free-img
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/bbq-restaurant-02\/wp-content\/uploads\/sites\/284\/2018\/10\/logo-free-img.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#db9423","5":"#4054b2","6":"#1d1d23","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false}}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Fast&Feast' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 300
+Post ID: 42
+Post ID: 43
+Post ID: 40
+Post ID: 41
+Batch Process Complete!

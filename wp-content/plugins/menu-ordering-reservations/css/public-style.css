@@ -1,0 +1,19 @@
+.glf-btn-basic {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/** Restaurant menu - START **/
+.glf-mor-restaurant-menu-item {
+    margin-bottom: 1rem;
+}
+
+.glf-mor-restaurant-menu-item-header {
+    display: flex;
+}
+
+.glf-mor-restaurant-menu-item-price {
+    margin-left: auto;
+}
+
+/** Restaurant menu - END **/

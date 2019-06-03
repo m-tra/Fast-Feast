@@ -1,0 +1,1187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ivory Search\n"
+"POT-Creation-Date: 2019-03-10 11:49+0530\n"
+"PO-Revision-Date: 2019-03-10 11:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: Ivory Search <admin@ivorysearch.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-is-admin.php:72
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: ../admin/class-is-admin.php:134 ../admin/partials/search-form.php:23
+msgid "Edit Search Form"
+msgstr ""
+
+#: ../admin/class-is-admin.php:135
+msgid "Click on the search form title to edit it."
+msgstr ""
+
+#: ../admin/class-is-admin.php:136
+msgid "Edit the Default Search Form to manage the default WordPress search."
+msgstr ""
+
+#: ../admin/class-is-admin.php:160 ../admin/class-is-help.php:111
+#: ../admin/partials/search-form.php:188 ../admin/partials/settings-form.php:98
+msgid "Support"
+msgstr ""
+
+#: ../admin/class-is-admin.php:179
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+
+#: ../admin/class-is-admin.php:180 ../admin/class-is-admin.php:405
+#: ../includes/class-is-widget.php:13 ../includes/class-is-widget.php:45
+msgid "Ivory Search"
+msgstr ""
+
+#: ../admin/class-is-admin.php:203
+#, php-format
+msgid ""
+"Thank you for using <strong>Ivory Search</strong> plugin. Please configure "
+"its <a href=\"%1$s\">search form</a> and get support on <a href=\"%2$s\" "
+"target=\"_blank\">support forum</a> or <a href=\"%3$s\" target=\"_blank"
+"\">contact us</a>."
+msgstr ""
+
+#: ../admin/class-is-admin.php:204 ../admin/class-is-admin.php:225
+msgid "Dismiss"
+msgstr ""
+
+#: ../admin/class-is-admin.php:226
+msgid "Have you found Ivory Search plugin useful?"
+msgstr ""
+
+#: ../admin/class-is-admin.php:227
+msgid ""
+"We poured a lot of hours into creating it, and we'd love it if you could "
+"give us a nice rating on the official plugin directory."
+msgstr ""
+
+#: ../admin/class-is-admin.php:229
+msgid "Rate Ivory Search and Help Us Out"
+msgstr ""
+
+#: ../admin/class-is-admin.php:230
+msgid "Get Support"
+msgstr ""
+
+#: ../admin/class-is-admin.php:231
+msgid "Say Hi"
+msgstr ""
+
+#: ../admin/class-is-admin.php:269
+msgid "No posts found"
+msgstr ""
+
+#: ../admin/class-is-admin.php:371
+msgid "Search form created."
+msgstr ""
+
+#: ../admin/class-is-admin.php:373
+msgid "Search form saved."
+msgstr ""
+
+#: ../admin/class-is-admin.php:375
+msgid "Search form deleted."
+msgstr ""
+
+#: ../admin/class-is-admin.php:377
+msgid "Search form reset."
+msgstr ""
+
+#: ../admin/class-is-admin.php:386
+msgid "There was an error saving the search form."
+msgstr ""
+
+#: ../admin/class-is-admin.php:394
+msgid "There was a validation error saving the search form."
+msgstr ""
+
+#: ../admin/class-is-admin.php:395
+#, php-format
+msgid ""
+"Please make sure you have not selected similar %s fields in the search form "
+"Includes and Excludes sections."
+msgstr ""
+
+#: ../admin/class-is-admin.php:407 ../admin/class-is-admin.php:445
+#: ../includes/class-is-search-form.php:59
+msgid "Search Forms"
+msgstr ""
+
+#: ../admin/class-is-admin.php:410 ../admin/partials/search-form.php:21
+msgid "Add New Search Form"
+msgstr ""
+
+#: ../admin/class-is-admin.php:410 ../admin/class-is-admin.php:452
+#: ../admin/partials/search-form.php:31
+msgid "Add New"
+msgstr ""
+
+#: ../admin/class-is-admin.php:413 ../admin/partials/settings-form.php:20
+msgid "Ivory Search Settings"
+msgstr ""
+
+#: ../admin/class-is-admin.php:413 ../admin/class-is-help.php:64
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-is-admin.php:458
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/class-is-admin.php:469
+msgid "Find Search Forms"
+msgstr ""
+
+#: ../admin/class-is-admin.php:513
+msgid "You are not allowed to edit this item."
+msgstr ""
+
+#: ../admin/class-is-admin.php:604
+msgid "You are not allowed to reset this item."
+msgstr ""
+
+#: ../admin/class-is-admin.php:645
+msgid "You are not allowed to copy this item."
+msgstr ""
+
+#: ../admin/class-is-admin.php:686
+msgid "You are not allowed to delete this item."
+msgstr ""
+
+#: ../admin/class-is-admin.php:690
+msgid "Error in deleting."
+msgstr ""
+
+#: ../admin/class-is-admin.php:902
+msgid "Save Form"
+msgstr ""
+
+#: ../admin/class-is-admin.php:914
+msgid "Upgrade to Pro to Access"
+msgstr ""
+
+#: ../admin/class-is-admin.php:921
+msgid "Install Premium Version to Access"
+msgstr ""
+
+#: ../admin/class-is-admin.php:923
+msgid "Upgrade to Pro Plus to Access"
+msgstr ""
+
+#: ../admin/class-is-editor.php:99
+msgid "This search form searches the below configured content."
+msgstr ""
+
+#: ../admin/class-is-editor.php:107
+msgid "Post Types"
+msgstr ""
+
+#: ../admin/class-is-editor.php:108 ../admin/class-is-editor.php:177
+#: ../admin/class-is-editor.php:240 ../admin/class-is-editor.php:315
+#: ../admin/class-is-editor.php:353 ../admin/class-is-editor.php:395
+#: ../admin/class-is-editor.php:448 ../admin/class-is-editor.php:483
+#: ../admin/class-is-editor.php:534 ../admin/class-is-editor.php:588
+#: ../admin/class-is-editor.php:612 ../admin/class-is-editor.php:678
+#: ../admin/class-is-editor.php:747 ../admin/class-is-editor.php:791
+#: ../admin/class-is-editor.php:827 ../admin/class-is-editor.php:859
+#: ../admin/class-is-editor.php:905 ../admin/class-is-editor.php:950
+#: ../admin/class-is-editor.php:1012 ../admin/class-is-editor.php:1034
+#: ../admin/class-is-editor.php:1072 ../admin/class-is-editor.php:1097
+#: ../admin/class-is-editor.php:1118 ../admin/class-is-editor.php:1137
+#: ../admin/class-is-editor.php:1159 ../admin/class-is-editor.php:1174
+#: ../admin/class-is-editor.php:1191 ../admin/class-is-editor.php:1206
+#: ../admin/class-is-editor.php:1221 ../admin/class-is-settings-fields.php:118
+msgid "Expand All"
+msgstr ""
+
+#: ../admin/class-is-editor.php:108 ../admin/class-is-editor.php:177
+#: ../admin/class-is-editor.php:240 ../admin/class-is-editor.php:315
+#: ../admin/class-is-editor.php:353 ../admin/class-is-editor.php:395
+#: ../admin/class-is-editor.php:448 ../admin/class-is-editor.php:483
+#: ../admin/class-is-editor.php:534 ../admin/class-is-editor.php:588
+#: ../admin/class-is-editor.php:612 ../admin/class-is-editor.php:678
+#: ../admin/class-is-editor.php:747 ../admin/class-is-editor.php:791
+#: ../admin/class-is-editor.php:827 ../admin/class-is-editor.php:859
+#: ../admin/class-is-editor.php:905 ../admin/class-is-editor.php:950
+#: ../admin/class-is-editor.php:1012 ../admin/class-is-editor.php:1034
+#: ../admin/class-is-editor.php:1072 ../admin/class-is-editor.php:1097
+#: ../admin/class-is-editor.php:1118 ../admin/class-is-editor.php:1137
+#: ../admin/class-is-editor.php:1159 ../admin/class-is-editor.php:1174
+#: ../admin/class-is-editor.php:1191 ../admin/class-is-editor.php:1206
+#: ../admin/class-is-editor.php:1221 ../admin/class-is-settings-fields.php:118
+msgid "Collapse All"
+msgstr ""
+
+#: ../admin/class-is-editor.php:113
+msgid "Search selected post types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:142
+msgid "Search post title"
+msgstr ""
+
+#: ../admin/class-is-editor.php:148
+msgid "Search post content"
+msgstr ""
+
+#: ../admin/class-is-editor.php:154
+msgid "Search post excerpt"
+msgstr ""
+
+#: ../admin/class-is-editor.php:160
+msgid "None"
+msgstr ""
+
+#: ../admin/class-is-editor.php:164
+msgid ""
+"Add this selected post type in the search results URL and search only its "
+"content"
+msgstr ""
+
+#: ../admin/class-is-editor.php:169
+msgid "No post types registered on your site."
+msgstr ""
+
+#: ../admin/class-is-editor.php:176 ../admin/class-is-editor.php:677
+msgid "Posts, Pages & Custom Posts"
+msgstr ""
+
+#: ../admin/class-is-editor.php:180
+msgid "Search only selected posts."
+msgstr ""
+
+#: ../admin/class-is-editor.php:216 ../admin/class-is-editor.php:269
+#: ../admin/class-is-editor.php:328 ../admin/class-is-editor.php:626
+#: ../admin/class-is-editor.php:719 ../admin/class-is-editor.php:769
+#: ../admin/class-is-editor.php:801 ../admin/class-is-editor.php:963
+msgid "Search.."
+msgstr ""
+
+#: ../admin/class-is-editor.php:220 ../admin/class-is-editor.php:723
+msgid "Load All"
+msgstr ""
+
+#: ../admin/class-is-editor.php:231 ../admin/class-is-editor.php:734
+msgid "No posts created for selected post types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:233 ../admin/class-is-editor.php:278
+#: ../admin/class-is-editor.php:335 ../admin/class-is-editor.php:634
+#: ../admin/class-is-editor.php:736 ../admin/class-is-editor.php:778
+#: ../admin/class-is-editor.php:809 ../admin/class-is-editor.php:971
+msgid ""
+"Press CTRL key & Left Mouse button to select multiple terms or deselect them."
+msgstr ""
+
+#: ../admin/class-is-editor.php:239 ../admin/class-is-editor.php:746
+msgid "Category & Taxonomy Terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:243
+msgid "Search posts of only selected categories, taxonomies & terms."
+msgstr ""
+
+#: ../admin/class-is-editor.php:288
+msgid "AND - Search posts having all the above selected terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:290
+msgid "OR - Search posts having any one of the above selected terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:296
+msgid "Search term title"
+msgstr ""
+
+#: ../admin/class-is-editor.php:302
+msgid "Search term description"
+msgstr ""
+
+#: ../admin/class-is-editor.php:307 ../admin/class-is-editor.php:783
+msgid "No taxonomies registered for selected post types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:314 ../admin/class-is-editor.php:790
+msgid "Custom Fields & Metadata"
+msgstr ""
+
+#: ../admin/class-is-editor.php:318
+msgid "Search values of selected custom fields."
+msgstr ""
+
+#: ../admin/class-is-editor.php:337 ../admin/class-is-editor.php:811
+msgid "No custom fields created for selected post types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:341
+msgid "Selected Custom Fields :"
+msgstr ""
+
+#: ../admin/class-is-editor.php:352 ../admin/class-is-editor.php:826
+msgid "WooCommerce"
+msgstr ""
+
+#: ../admin/class-is-editor.php:356
+msgid "Search WooCommerce products."
+msgstr ""
+
+#: ../admin/class-is-editor.php:372
+msgid "Search product SKU"
+msgstr ""
+
+#: ../admin/class-is-editor.php:378
+msgid "Search product variation"
+msgstr ""
+
+#: ../admin/class-is-editor.php:384 ../admin/class-is-editor.php:848
+msgid ""
+"This search form is not configured to search WooCommerce product post type."
+msgstr ""
+
+#: ../admin/class-is-editor.php:387 ../admin/class-is-editor.php:851
+msgid "Activate WooCommerce plugin to use this option."
+msgstr ""
+
+#: ../admin/class-is-editor.php:394 ../admin/class-is-editor.php:858
+msgid "Authors"
+msgstr ""
+
+#: ../admin/class-is-editor.php:398
+msgid "Search posts of selected authors."
+msgstr ""
+
+#: ../admin/class-is-editor.php:431
+msgid ""
+"This search form is already configured in the Excludes section to not search "
+"for specific author posts."
+msgstr ""
+
+#: ../admin/class-is-editor.php:439
+msgid "Search author Display Name and display the posts created by that author"
+msgstr ""
+
+#: ../admin/class-is-editor.php:447 ../admin/class-is-editor.php:904
+msgid "Post Status"
+msgstr ""
+
+#: ../admin/class-is-editor.php:451
+msgid "Search posts having selected post statuses."
+msgstr ""
+
+#: ../admin/class-is-editor.php:475
+msgid ""
+"This search form is already configured in the Excludes section to not search "
+"posts of specific post statuses."
+msgstr ""
+
+#: ../admin/class-is-editor.php:482
+msgid "Comments"
+msgstr ""
+
+#: ../admin/class-is-editor.php:487
+msgid "Search posts by comments."
+msgstr ""
+
+#: ../admin/class-is-editor.php:494
+msgid "Search posts having number of comments"
+msgstr ""
+
+#: ../admin/class-is-editor.php:510
+msgid "NA"
+msgstr ""
+
+#: ../admin/class-is-editor.php:524
+msgid "Search approved comment content"
+msgstr ""
+
+#: ../admin/class-is-editor.php:533 ../admin/class-is-list-table.php:34
+msgid "Date"
+msgstr ""
+
+#: ../admin/class-is-editor.php:537
+msgid "Search posts created in the specified date range."
+msgstr ""
+
+#: ../admin/class-is-editor.php:543
+msgid "From"
+msgstr ""
+
+#: ../admin/class-is-editor.php:543
+msgid "To"
+msgstr ""
+
+#: ../admin/class-is-editor.php:551
+msgid "Day"
+msgstr ""
+
+#: ../admin/class-is-editor.php:562
+msgid "Month"
+msgstr ""
+
+#: ../admin/class-is-editor.php:573
+msgid "Year"
+msgstr ""
+
+#: ../admin/class-is-editor.php:587
+msgid "Password Protected"
+msgstr ""
+
+#: ../admin/class-is-editor.php:594
+msgid "Search posts with or without passwords"
+msgstr ""
+
+#: ../admin/class-is-editor.php:596
+msgid "Search posts with passwords"
+msgstr ""
+
+#: ../admin/class-is-editor.php:598
+msgid "Search posts without passwords"
+msgstr ""
+
+#: ../admin/class-is-editor.php:611 ../admin/class-is-editor.php:949
+msgid "Attachments, Media, Files & MIME Types"
+msgstr ""
+
+#: ../admin/class-is-editor.php:615
+msgid ""
+"Search selected media, attachments, images, documents, videos, files or MIME "
+"types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:637
+msgid ""
+"This search form is already configured in the Excludes section to not search "
+"specific file & MIME types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:640 ../admin/class-is-editor.php:977
+msgid "This search form is not configured to search Attachment post type."
+msgstr ""
+
+#: ../admin/class-is-editor.php:644
+msgid "Selected File Types :"
+msgstr ""
+
+#: ../admin/class-is-editor.php:670
+msgid "This search form excludes the below configured content from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:681
+msgid "Exclude selected posts from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:740
+msgid ""
+"This search form is already configured in the Includes section to search "
+"specific posts."
+msgstr ""
+
+#: ../admin/class-is-editor.php:750
+msgid "Exclude posts of selected categories, taxonomies & terms from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:794
+msgid "Exclude posts having selected custom fields from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:815
+msgid "Excluded Custom Fields :"
+msgstr ""
+
+#: ../admin/class-is-editor.php:830
+msgid "Exclude selected WooCommerce products from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:845
+msgid "Exclude 'Out of Stock' products"
+msgstr ""
+
+#: ../admin/class-is-editor.php:862
+msgid "Exclude posts created by selected authors from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:897
+msgid ""
+"This search form is already configured in the Includes section to search "
+"posts created by specific authors."
+msgstr ""
+
+#: ../admin/class-is-editor.php:908
+msgid "Exclude posts having selected post statuses from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:931
+msgid ""
+"This search form is already configured in the Includes section to search "
+"posts of specific post statuses."
+msgstr ""
+
+#: ../admin/class-is-editor.php:939
+msgid "Exclude sticky posts from search"
+msgstr ""
+
+#: ../admin/class-is-editor.php:953
+msgid ""
+"Exclude selected media, attachments, images, documents, videos, files or "
+"MIME types from search."
+msgstr ""
+
+#: ../admin/class-is-editor.php:974
+msgid ""
+"This search form is already configured in the Includes section to search "
+"specific Attachments, Media or Files."
+msgstr ""
+
+#: ../admin/class-is-editor.php:981
+msgid "Excluded File Types :"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1004
+msgid "Configure below options to manage functionality of this search form."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1011
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1015
+msgid "Display selected number of posts on search results page."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1033
+msgid "Order Search Results"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1036
+msgid "Display posts on search results page ordered by selected options."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1071
+msgid "Highlight Search Terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1081
+msgid "Highlight searched terms on search results page"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1087
+msgid "Set highlight color in Hex format"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1096
+msgid "Search All Or Any Search Terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1100
+msgid ""
+"Select whether to search posts having all or any of the words being searched."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1106
+msgid "OR - Display content having any of the search terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1108
+msgid "AND - Display content having all the search terms"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1117
+msgid "Fuzzy Matching"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1120
+msgid ""
+"Select whether to search posts having whole or partial word being searched."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1125
+msgid "Whole - Search posts that include the whole search term"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1127
+msgid ""
+"Partial - Also search words in the posts that begins or ends with the search "
+"term"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1136
+msgid "Keyword Stemming"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1140
+msgid "Select whether to search the base word of a searched keyword."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1141
+msgid ""
+"For Example: If you search \"doing\" then it also searches base word of "
+"\"doing\" that is \"do\" in the specified post types."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1142
+msgid "Not recommended to use when Fuzzy Matching option is set to Whole."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1148
+msgid "Also search base word of searched keyword"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1158
+msgid "Sticky Posts"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1164
+msgid "Display sticky posts to the start of the search results page"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1173
+msgid "Empty Search Query"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1176
+msgid ""
+"Select whether to display an error when user perform search without any "
+"search word."
+msgstr ""
+
+#: ../admin/class-is-editor.php:1181
+msgid "Display an error for empty search query"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1190
+msgid "Respect exclude_from_search"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1196
+msgid "Do not search post types which are excluded from search"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1205
+msgid "Demo Search"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1211
+msgid "Display search form only for site administrator"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1220 ../admin/class-is-settings-fields.php:163
+msgid "Disable Search"
+msgstr ""
+
+#: ../admin/class-is-editor.php:1226
+msgid "Disable this search form"
+msgstr ""
+
+#: ../admin/class-is-help.php:16 ../admin/class-is-help.php:30
+#: ../admin/class-is-help.php:54
+msgid "Overview"
+msgstr ""
+
+#: ../admin/class-is-help.php:21
+msgid "Available Actions"
+msgstr ""
+
+#: ../admin/class-is-help.php:35 ../admin/partials/search-form.php:110
+msgid "Includes"
+msgstr ""
+
+#: ../admin/class-is-help.php:40 ../admin/partials/search-form.php:114
+msgid "Excludes"
+msgstr ""
+
+#: ../admin/class-is-help.php:45 ../admin/partials/search-form.php:118
+msgid "Options"
+msgstr ""
+
+#: ../admin/class-is-help.php:59
+msgid "Menu Search"
+msgstr ""
+
+#: ../admin/class-is-help.php:76
+msgid ""
+"On this screen, you can manage search forms provided by Ivory Search plugin. "
+"You can create and manage an unlimited number of search forms. Each search "
+"form has a unique ID and search form shortcode ([ivory-search ...]). To "
+"insert a search form into a post or a text widget, insert the shortcode into "
+"the target."
+msgstr ""
+
+#: ../admin/class-is-help.php:78
+msgid ""
+"Hovering over a row in the search forms list will display action links that "
+"allow you to manage your search form. You can perform the following actions:"
+msgstr ""
+
+#: ../admin/class-is-help.php:79
+msgid ""
+"<strong>Edit</strong> - Navigates to the editing screen for that search "
+"form. You can also reach that screen by clicking on the search form title."
+msgstr ""
+
+#: ../admin/class-is-help.php:80
+msgid ""
+"<strong>Duplicate</strong> - Clones that search form. A cloned search form "
+"inherits all content from the original, but has a different ID."
+msgstr ""
+
+#: ../admin/class-is-help.php:81
+msgid ""
+"<strong>Delete</strong> - Deletes the search form. The search form gets "
+"deleted permanently and its shortcode becomes void so you have to remove the "
+"shortcode if you have used it anywhere."
+msgstr ""
+
+#: ../admin/class-is-help.php:83
+msgid ""
+"On this screen, you can edit a search form. A search form is comprised of "
+"the following components:"
+msgstr ""
+
+#: ../admin/class-is-help.php:84
+msgid ""
+"<strong>Title</strong> is the title of a search form. This title is only "
+"used for labeling a search form, and can be edited."
+msgstr ""
+
+#: ../admin/class-is-help.php:85
+msgid ""
+"<strong>Includes</strong> provides options to control which content on the "
+"site is searchable."
+msgstr ""
+
+#: ../admin/class-is-help.php:86
+msgid ""
+"<strong>Excludes</strong> provides options to exclude specific content from "
+"the search on the site."
+msgstr ""
+
+#: ../admin/class-is-help.php:87
+msgid ""
+"<strong>Options</strong> provides a place where you can customize overall "
+"behavior of this search form."
+msgstr ""
+
+#: ../admin/class-is-help.php:89
+msgid ""
+"Control here which content you want to make searchable using this search "
+"form."
+msgstr ""
+
+#: ../admin/class-is-help.php:91
+msgid ""
+"Configure the options here to exclude specific content from search perfomed "
+"using this search form."
+msgstr ""
+
+#: ../admin/class-is-help.php:93
+msgid "Control here the overall behaviour of this search form."
+msgstr ""
+
+#: ../admin/class-is-help.php:95
+msgid ""
+"On this screen, you can manage search added in the site navgation menu and "
+"configure settings that will affect all search forms and search "
+"functionality on the site. The settings screen comprised of the following "
+"sections:"
+msgstr ""
+
+#: ../admin/class-is-help.php:96
+msgid ""
+"<strong>Menu Search</strong> provides a place where you can customize the "
+"behavior of search form added in the site navgation menu."
+msgstr ""
+
+#: ../admin/class-is-help.php:97
+msgid ""
+"<strong>Settings</strong> provides options to configure sitewide search "
+"functionality."
+msgstr ""
+
+#: ../admin/class-is-help.php:99
+msgid ""
+"Cofigure the options in this section to manage search added in the site "
+"navigation menu."
+msgstr ""
+
+#: ../admin/class-is-help.php:101
+msgid ""
+"Configure options in this section to manage sitewide search functionality."
+msgstr ""
+
+#: ../admin/class-is-help.php:109
+msgid "For more information:"
+msgstr ""
+
+#: ../admin/class-is-help.php:110
+msgid "Docs"
+msgstr ""
+
+#: ../admin/class-is-help.php:112 ../admin/partials/settings-form.php:100
+msgid "Give us a rating"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:31
+msgid "Title"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:32
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:33
+msgid "Author"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:111 ../admin/class-is-list-table.php:174
+#: ../admin/partials/search-form.php:156
+msgid "Delete"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:140
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:150
+#: ../admin/class-is-settings-fields.php:251
+#: ../admin/class-is-settings-fields.php:381
+#: ../admin/class-is-settings-fields.php:413 ../includes/class-is-widget.php:69
+msgid "Edit"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:160 ../admin/partials/search-form.php:171
+msgid "Duplicate"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:173 ../admin/partials/search-form.php:156
+msgid ""
+"You are about to delete this search form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: ../admin/class-is-list-table.php:222
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:233
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../admin/class-is-list-table.php:235
+msgid "d/m/Y"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:142
+msgid "Select Menu"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:143
+#: ../includes/class-is-search-form.php:60
+msgid "Search Form"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:144
+msgid "Form Style"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:145
+msgid "Menu Title"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:146
+msgid "Menu Classes"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:147
+msgid "Google CSE"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:148
+msgid "Close Icon"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:156
+msgid "Header Search"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:157
+msgid "Footer Search"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:158
+msgid "Mobile Search"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:159
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:160
+msgid "Stopwords"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:161
+msgid "Synonyms"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:162
+msgid "Do Not Load Plugin Files"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:164
+msgid "Default Search"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:174
+msgid "Display search in menu and configure it using below options."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:181
+msgid "Make search changes on entire website using below options."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:189
+msgid "Display search form on selected menu."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:209
+msgid "Navigation menu location is not registered on the site."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:219
+msgid "Select search form that will control menu search functionality."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:253
+#: ../admin/class-is-settings-fields.php:383
+#: ../admin/class-is-settings-fields.php:415 ../includes/class-is-widget.php:71
+msgid "Create New"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:265
+msgid "Select menu search form style."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:269
+msgid "Default"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:270
+msgid "Dropdown"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:271
+msgid "Sliding"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:272
+msgid "Full Width"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:273
+msgid "Popup"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:305
+msgid "Add menu title to display in place of search icon."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:317
+msgid "Add class to search form menu item."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:322
+msgid "Add multiple classes seperated by space."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:330
+msgid ""
+"Add Google Custom Search( CSE ) search form code that will replace default "
+"search form."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:353
+msgid "Display search form close icon"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:362
+msgid "Select search form to display in site header."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:374
+#: ../admin/class-is-settings-fields.php:406 ../includes/class-is-widget.php:62
+msgid "none"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:394
+msgid "Select search form to display in site footer."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:435
+msgid "Display search form in site header on mobile devices"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:438
+msgid ""
+"If this site uses cache then please select the below option to display "
+"search form on mobile."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:451
+msgid "This site uses cache"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:459
+msgid "Add custom css code."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:472
+msgid "Enter stopwords here that will not be searched."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:476
+msgid "Please separate multiple words with commas."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:484
+msgid "Add synonyms here to make the searches find better results."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:485
+msgid ""
+"If you add bird = crow to the list of synonyms, searches for bird "
+"automatically become a search for bird crow and will thus match to posts "
+"that include either bird or crow."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:490
+msgid "The format here is key = value;"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:491
+msgid "Please separate every synonyms key = value pairs with semicolon."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:494
+msgid ""
+"This only works for search forms configured to search any of the search "
+"terms(OR) and not all search terms(AND)."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:505
+msgid ""
+"Disable synonyms for the search forms configured to search all search terms"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:514
+msgid ""
+"Enable below options to disable loading of plugin CSS and JavaScript files."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:518
+msgid "Plugin CSS files"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:519
+msgid "Plugin JavaScript files"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:539
+msgid ""
+"If checked, you have to add following plugin file code into your child theme "
+"CSS file."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:543
+msgid ""
+"If checked, you have to add following plugin files code into your child "
+"theme JavaScript file."
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:558
+msgid "Disable search functionality on entire website"
+msgstr ""
+
+#: ../admin/class-is-settings-fields.php:569
+msgid ""
+"Do not use Default Search Form to control WordPress default search "
+"functionality"
+msgstr ""
+
+#: ../admin/partials/search-form.php:68 ../admin/partials/search-form.php:80
+msgid "Search form name"
+msgstr ""
+
+#: ../admin/partials/search-form.php:80
+msgid "Editing the title of Default Search Form is prohibited."
+msgstr ""
+
+#: ../admin/partials/search-form.php:92
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: ../admin/partials/search-form.php:165
+msgid "Save"
+msgstr ""
+
+#: ../admin/partials/search-form.php:175
+msgid "Reset"
+msgstr ""
+
+#: ../admin/partials/search-form.php:175
+msgid ""
+"You are about to reset this search form.\n"
+"  'Cancel' to stop, 'OK' to reset."
+msgstr ""
+
+#: ../admin/partials/search-form.php:184 ../admin/partials/settings-form.php:94
+msgid "Information"
+msgstr ""
+
+#: ../admin/partials/search-form.php:187 ../admin/partials/settings-form.php:97
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/partials/search-form.php:189 ../admin/partials/settings-form.php:99
+msgid "Contact Us"
+msgstr ""
+
+#: ../admin/partials/search-form.php:190
+msgid "Rate Ivory Search"
+msgstr ""
+
+#: ../includes/class-is-search-form.php:111
+#: ../includes/class-is-search-form.php:207
+msgid "Untitled"
+msgstr ""
+
+#: ../includes/class-is-search-form.php:133
+#, php-format
+msgid ""
+"<code>%1$s</code> property of a <code>IS_Search_Form</code> object is "
+"<strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr ""
+
+#: ../includes/class-is-widget.php:14
+msgid "Displays ivory search form."
+msgstr ""
